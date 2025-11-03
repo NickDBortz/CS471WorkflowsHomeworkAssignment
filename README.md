@@ -126,3 +126,4 @@ Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) 
 ## Step 8 - Part 2
 Addendum 1
 Addendum 2
+Addendum 3
